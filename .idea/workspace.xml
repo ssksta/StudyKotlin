@@ -7,20 +7,18 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecc0d267-0e56-4b99-96ab-f56219162e17" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="e6e9d9dd-afa4-4d25-8725-62e9f7efeef0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/StudyKotlin.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +35,12 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="StudyKotlin" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -52,6 +55,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="20NAmIEyxfsIEQhvnK45T95IhQk" />
@@ -90,7 +106,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ecc0d267-0e56-4b99-96ab-f56219162e17" name="Default Changelist" comment="" />
+      <changelist id="e6e9d9dd-afa4-4d25-8725-62e9f7efeef0" name="Default Changelist" comment="" />
       <created>1635874828252</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -111,7 +127,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -128,22 +161,22 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="100" y="125" width="1240" height="675" key="DiffContextDialog/0.25.1440.875/1440.-155.1920.1055@0.25.1440.875" timestamp="1635878116994" />
-    <state width="1398" height="228" key="GridCell.Tab.0.bottom" timestamp="1635877381849">
+    <state width="1398" height="228" key="GridCell.Tab.0.bottom" timestamp="1635880266575">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1398" height="228" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-155.1920.1055@0.25.1440.875" timestamp="1635877381849" />
-    <state width="1398" height="228" key="GridCell.Tab.0.center" timestamp="1635877381846">
+    <state width="1398" height="228" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-155.1920.1055@0.25.1440.875" timestamp="1635880266575" />
+    <state width="1398" height="228" key="GridCell.Tab.0.center" timestamp="1635880266574">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1398" height="228" key="GridCell.Tab.0.center/0.25.1440.875/1440.-155.1920.1055@0.25.1440.875" timestamp="1635877381846" />
-    <state width="1398" height="228" key="GridCell.Tab.0.left" timestamp="1635877381845">
+    <state width="1398" height="228" key="GridCell.Tab.0.center/0.25.1440.875/1440.-155.1920.1055@0.25.1440.875" timestamp="1635880266574" />
+    <state width="1398" height="228" key="GridCell.Tab.0.left" timestamp="1635880266573">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1398" height="228" key="GridCell.Tab.0.left/0.25.1440.875/1440.-155.1920.1055@0.25.1440.875" timestamp="1635877381845" />
-    <state width="1398" height="228" key="GridCell.Tab.0.right" timestamp="1635877381848">
+    <state width="1398" height="228" key="GridCell.Tab.0.left/0.25.1440.875/1440.-155.1920.1055@0.25.1440.875" timestamp="1635880266573" />
+    <state width="1398" height="228" key="GridCell.Tab.0.right" timestamp="1635880266574">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1398" height="228" key="GridCell.Tab.0.right/0.25.1440.875/1440.-155.1920.1055@0.25.1440.875" timestamp="1635877381848" />
+    <state width="1398" height="228" key="GridCell.Tab.0.right/0.25.1440.875/1440.-155.1920.1055@0.25.1440.875" timestamp="1635880266574" />
     <state x="511" y="380" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635875606727">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
