@@ -4,4 +4,5 @@ fun main(){
     println("java = $java")
     println("javaProperty = ${java.str}")
     println("javaProperty = ${java.str}")
+
 }
